@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "manon"
+    }
+  },
+  "defaultProject": "manon",
+  "cli": {
+    "analytics": "7ee216ac-cf66-41c9-852c-52ff8fb3ed0f"
+  }
 }
